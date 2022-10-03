@@ -1,0 +1,25 @@
+@charset "utf-8" ;
+
+p{
+    color: red;
+    border: 3px solid black;
+}
+p.ex-1 {
+    display:none;
+    border: 7px solid black;
+}
+
+p.ex-2 {
+    display:inline;
+    border: 7px solid black;
+}
+
+p.ex3 {
+    display: block;
+    border: 3px solid black;
+}
+
+p.ex-4 {
+    display:inline-block;
+    border: 3px solid black;
+}
