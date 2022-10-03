@@ -1,0 +1,18 @@
+* {
+    background-color: #49274a;
+    color:"F8EEE7";
+
+}
+table * {
+    background-color: #94618E;
+    text-align: center;
+    width: 400px;
+   }
+   p {
+    font-size:  2rem;
+    background-color: #F4DECB;
+    color: black;
+   }
+   h1{
+    color: aliceblue;
+   }
