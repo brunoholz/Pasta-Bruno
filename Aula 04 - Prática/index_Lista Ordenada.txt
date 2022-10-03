@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-b">
+
+<head>
+    <meta chaset="UTF-8">
+    <title>Alimentos da Feira</title>
+</head>
+<body>
+    <h1>
+<center>LISTA DOS ALIMENTOS POR PREÇO &reg;</center>
+</h1>
+<p>
+<ol>
+    <li>Banana: 2,50R$/KG</li>
+    <li>Maçã: 2,75R$/KG</li>
+</ol>
+</p>
+<font size="5">
+&nbsp; &nbsp; 
+.
+<br> &nbsp; &nbsp; 
+.
+<br> &nbsp; &nbsp; 
+.
+</font>
+<p>
+<ol start ="77">
+    <li> Alcachofra </li>
+    <li> Salsa </li>
+    
+</ol>
+</p>
+</body>
+
+
+
+</html>

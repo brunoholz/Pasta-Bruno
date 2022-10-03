@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>LISTA DESORDENADA</title>
+</head>
+<body>
+   <center><u> <h1>LISTA SEM ORDEM</h1></u></center>
+    
+   <center> <h2><p>Livros</p></center></h2> 
+    <ul type="square">
+        <li>O poder da ação</li>
+        <li>Como fazer amigos e influenciar pessoas</li>
+        <li>O Milagre da Manhã</li>
+
+
+    </ul>
+
+<center><h3>Conteúdos</h3></center>
+<ul type="disc">
+    <li>Estoicismo</li>
+    <li>Violino</li>
+    <li>Mágica</li>
+
+</ul>
+<center><h3>Médicos</h3></center>
+<ul type="circle">
+    <li>Cardiologista</li>
+    <li>Dermatologista</li>
+    <li>Clínico Geral</li>
+</ul>
+</body>
+
+
+</html>

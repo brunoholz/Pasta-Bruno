@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    
+<head>
+    <meta charset="UTF-8">
+    <title>LISTAS</title>
+</head>
+<body>
+    <h1>Elemenos de lista de forma ordenada</h1>
+
+    <!-- Lista de forma crescente  -->
+
+    <p>Lista numerada crescente</p>
+    <ol>
+        <li>Cortex pré-frontal</li>
+        <li>Núcleo Accubens</li>
+        <li>Sob esse viés</li>
+    </ol>
+
+    <!-- Lista de forma decrescente  -->
+
+    <p> Lista de forma descrescente</p>
+
+    <ol start="10" resersed>
+        <li>Pequenas respostas para grandes questões</li>
+        <li>O amor é a mesma alma habitando dois corpos diferentes</li>
+        <li>Há sempre alguma loucura no amor, mas há também sempre uma razão na loucura</li>
+    </ol>
+
+    <p> Lista em ordem alfabética MAIÚSCULA </p>
+    
+    <ol type="A">
+        <li>O amor próprio é construido a partir do amor que nos é ofercido por outros</li>
+        <li>A constituição de 1988, inciso IV registra que o estado deve garantir a saúde como direito social do indivíduo</li>
+        <li>O homem é o lobo do Homem -Thomas Hobbes</li>
+    </ol>
+
+    <p> Lista em ordem alfabética minúscula</p>
+    <ol type="a">
+
+    <li>A saúde não é apenas o bem estar físico, mental e social, mas também a ausência de doenças</li>
+    <li>Ministério da Cidadania é uma autoridade importante na garantia dos direitos dos cidadãos brasileiros</li>
+    <li>Ministério da Comunicação estimula o engajamento social por meio de propagandas televisivas e nas redes sociais</li>
+    
+    </ol>
+</body>
